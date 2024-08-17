@@ -1,4 +1,4 @@
-// animationLibrary.js
+// Kanimations.js
 
 (function(global) {
   // Utility function to set CSS styles
@@ -252,7 +252,7 @@
   document.head.appendChild(styleSheet);
 
   // Expose the library to the global object
-  global.Kaminations={
+  global.Kanimations = {
     fadeIn,
     fadeOut,
     slideInTop,
