@@ -252,7 +252,7 @@
   document.head.appendChild(styleSheet);
 
   // Expose the library to the global object
-  global.Kaminations = {
+  global.Kaminations={
     fadeIn,
     fadeOut,
     slideInTop,
