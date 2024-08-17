@@ -24,7 +24,7 @@ Kanimations is a lightweight JavaScript library for creating various animations 
 To use Kanimations, include the `Kanimations.js` script in your HTML file:
 
 ```html
-<script src="https://aman5062.github.io/jslib/Kaminations.js"></script>
+<script src="https://aman5062.github.io/Kaminations/Kanimations.js"></script>
 ```
 
 
@@ -191,7 +191,7 @@ Here is an example of using Kanimations in an HTML file:
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Kanimations Example</title>
-  <script src="https://aman5062.github.io/jslib/Kaminations.js"></script>
+  <script src="https://aman5062.github.io/Kaminations/Kanimations.js"></script>
   <style>
     #box {
       width: 100px;
